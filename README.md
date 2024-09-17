@@ -22,6 +22,7 @@ I'm a Software Engineer with a strong focus on web development and the MERN stac
   
 2. MERN Stack Intern at DevEntia  
    - Built full-stack applications with the MERN stack, working on both frontend and backend systems.
+
 🌱 What I’m Looking For:
 I’m eager to continue developing my skills and contribute to real-world projects. Open to new opportunities, collaborations, and learning experiences, especially in **web development** and **full-stack projects**.
 
